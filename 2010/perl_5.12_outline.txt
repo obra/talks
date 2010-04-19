@@ -1,0 +1,57 @@
+5.12.0! Yay
+
+What's new in 5.12
+
+[technical content]
+
+[benchmarks]
+
+Lots of this was new in 5.10.1, too.
+
+What was new in 5.10.0
+
+New release process
+
+New pumpking
+
+What a pumpking was
+
+What the pumpking is
+
+
+Stats about 5.8 development
+Stats about 5.10 development
+Stats about 5.12 development
+
+Bleadperl 
+
+Monthly schedule
+
+Release managers
+
+Maintperl
+
+5.10.0 -> 5.10.1
+
+
+That sucked
+
+New maint criteria
+
+When's 5.12.1 coming?
+
+So, what's coming in 5.12.1?
+
+When's 5.14 coming?
+
+What's coming in 5.14?
+
+I don't know 
+
+What do you want in Perl 5.14?
+
+XD
+
+Trying out 5.12.0
+
+perlbrew
