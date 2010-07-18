@@ -1,4 +1,49 @@
+Hi!
+
+I'm Jesse
+
+I'm the Perl 5 "Pumpking"
+
+Pumpking?
+
+Pumpkin
+
+Patch Pumpkin
+
+"Patch" Pumpkin?
+
+
+"       To explain:  David Croy once told me once that at a previous job, there was one tape drive and multiple systems that
+       used it for backups.  But instead of some high-tech exclusion software, they used a low-tech method to prevent
+       multiple simultaneous backups: a stuffed pumpkin.  No one was allowed to make backups unless they had the "backup
+       pumpkin".
+" -- Chip Salzenberg
+
+
+
 5.12.0! Yay
+
+5.12? I thought Perl 6 was next.
+
+No.
+
+So, I hate Perl 6?
+
+No.
+
+Perl 6 is awesome
+
+Perl 6 is the future
+
+Perl 6 is one future
+
+Perl 5 is one future
+
+Perl 5 and Perl 6 are sisters
+
+Perl 5 and Perl 6 are friends
+
+So.
 
 What's new in 5.12
 
@@ -14,35 +59,215 @@ New release process
 
 New pumpking
 
+    (Me)
+
 What a pumpking was
 
-What the pumpking is
+    Hardcore C hacker
+    Patch applier
+    Language Designer
+    Release Engineer
+    HR Manager 
+    Supreme Arbiter of Good taste
+    Project Manager
+    Dispute Resolver
+
+Wow. That's a lot of stuff.
+
+Who have our pumpkings been?
+
+       Larry Wall, Andy Dougherty, Tom Christiansen, Charles Bailey, Nick Ing-
+       Simmons, Chip Salzenberg, Tim Bunce, Malcolm Beattie, Gurusamy Sarathy,
+       Graham Barr, Jarkko Hietaniemi, Hugo van der Sanden, Michael Schwern,
+       Rafael Garcia-Suarez, Nicholas Clark, Richard Clamp, Leon Brocard, Dave
+       Mitchell.
+
+How do you get to be pumpking?
+
+Be a hardcore C hacker
+
+With a responsibility complex.
+
+That's right.
+
+We made our best hackers into project managers
+
+Nobody since Larry has stayed pumpking for two maint versions.
+
+We can't keep losing pumpkings!
+
+What can we do?
+
+Refactoring!
+
+Role decomposition?
+   
+
+What is the pumpking?
+ 
+Hardcore C hacker
+
+    Don't need to be! 
+
+Patch applier
+
+    Sure, but it can be shared
+
+Release Engineer
+
+    That can be delegated!
+
+Language Designer
+
+    That can be delegated 
+    (Somewhat)
+
+Supreme Arbiter of Good taste
+    That can't be delegated
+
+Dispute Resolver
+    That can't be delegated
+
+
+HR Manager 
+    
+    That can't be delegated
+
+Project Manager
+
+    That can't be delegated
+
+
+
 
 
 Stats about 5.8 development
 Stats about 5.10 development
 Stats about 5.12 development
 
+
+
 Bleadperl 
 
 Monthly schedule
 
+Starting in October 2009
+
+Every Month
+
+On the 20th
+
 Release managers
 
-Maintperl
+Not Pumpkings
+
+What about "Maint"?
 
 5.10.0 -> 5.10.1
 
+Maintenance Release
+
+ 2663 files changed, 190878 insertions(+), 367032 deletions(-)
+
+ (200k lines of "Changes" deleted)
+
+Maintenance Release
+
+Module Updates
+
+Bug fixes 
+
+Features
+
+Behaviour Changes
 
 That sucked
 
-New maint criteria
+Maintenance Release
 
+"Maintenance" Release
+
+Perl 5.10.0
+
+December 2007 
+
+Rafael Garcia Suarez (rgs)
+
+Resigned July 2009
+
+Perl 5.10.1
+
+Dave Mitchell (dapm)
+
+August 2009
+
+Retired October 2009
+
+"Over about 18 months, 5.10.1 included about 2800 commits that were
+cherry-picked from blead, (and there were a further 700 or so blead
+commits that weren't picked)"
+	
+	"Maint currently serves the following goals:
+	
+	1) include regression fixes
+	2) include general fixes
+	3) include build fixes (so it will compile on new/updated platforms)
+	4) include newer CPAN modules related to (3)
+	5) generally update CPAN modules where newer releases are available
+	6) include new features that aren't too scary and don't break
+	   backwards compatibility
+	7) maintain binary compatibility
+	8) don't break anything.
+	
+	Doing all the above is *very* hard."
+	
+We can't keep losing pumpkings
+
+New maint policy
+
+"New releases of maint should contain as few changes as possible.
+If there is any question about whether a given patch might merit
+inclusion in a maint release, then it almost certainly should not
+be included."
+
+What's OK
+
+	Portability fixes, such as changes to Configure and the files in
+	hints/ are acceptable. 
+	
+	Documentation updates
+	
+	Patches that fix crashing bugs that do not otherwise change Perl's
+	functionality or negatively impact performance
+	
+	Patches that fix CVEs or security issues
+	
+	Minimal patches to dual-life modules to
+	ifx crashing or security issues (as above).
+	
+What's not OK
+
+	Patches that add new warnings or errors or deprecate features
+	
+	New versions of dual-life modules.
+	(Except as above)
+	
+	Patches that break binary compatibility.
+	
+	Patches that add or remove features.
+	
+	Ports of Perl to a new platform, architecture
+	or OS release that involve changes to the implementation
+	
 When's 5.12.1 coming?
+
+Estimated: May 12, 2010
 
 So, what's coming in 5.12.1?
 
 When's 5.14 coming?
+
+Spring 2011
 
 What's coming in 5.14?
 
@@ -55,3 +280,10 @@ XD
 Trying out 5.12.0
 
 perlbrew
+
+
+
+
+"We're keeping the wheels and reinventing the vehicle" - A. Tang
+
+"CPAN is the language. Perl is just the syntax"

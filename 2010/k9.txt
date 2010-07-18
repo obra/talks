@@ -1,37 +1,19 @@
-What is android
-
+Yhat is Android
 What is K-9
-
 Didn't it come with a mail client?
-
 Scratching an itch
-
 (Delete from IMAP)
-
 Fork the OS?!?!
-
 What did it take to fork?
-
 What did Google think?
-
 Recruiting DAMail
-
 K-9 repo stats and pictures
-
 K-9 features
-
 Getting started working with K-9
-
 Getting the SDK
-
 Checking out the code
-
 Structure of the source code
-
 Building K-9
-
 Getting K-9 to your device
-
 Things we've found hard in K-9
-
 Feature wishlist
